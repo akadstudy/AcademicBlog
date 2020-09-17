@@ -54,12 +54,12 @@ slides: ""
    - [ ] [C++ Build Pipeline](https://57ud.netlify.app/post/cpp06/)
    - [ ] [C++ Keywords](https://57ud.netlify.app/post/cpp07/)
    - [ ] [Preprocessor Directives](https://57ud.netlify.app/post/cpp08/)
-   - [ ] Exercise 2
-   - [ ] Basic I/O Statements
-   - [ ] Exercise 3
-   - [ ] Function
-   - [ ] Exercise 4
-   - [ ] Activity 1
+   - [ ] [Exercise 2](https://57ud.netlify.app/post/cpp09/)
+   - [ ] [Basic I/O Statements](https://57ud.netlify.app/post/cpp10/)
+   - [ ] [Exercise 3](https://57ud.netlify.app/post/cpp11/)
+   - [ ] [Function](https://57ud.netlify.app/post/cpp12/)
+   - [ ] [Exercise 4](https://57ud.netlify.app/post/cpp13/)
+   - [ ] [Activity 1](https://57ud.netlify.app/post/cpp14/)
 2. Control Flow
    - [ ] Overview
    - [ ] if/else
