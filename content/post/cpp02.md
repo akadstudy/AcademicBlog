@@ -31,20 +31,25 @@ projects: [cpp]
 There are many tools we can use to compile our C++ programs, too many to cover here, so here are some recommendations and a guide on getting started:
 Online Compilers
 
-cpp.sh is an online C++ compiler and the one the authors extensively used in this course. Visit cpp.sh and ensure the options are set up as shown:
+**cpp.sh** is an online C++ compiler and the one the authors extensively used in this course. Visit [cpp.sh](http://cpp.sh/) and ensure the options are set up as shown:
+
+- Standard: C++14
+- Warnings: Many (-Wall)
+- Optimization level: Full
+- Standard Input: Interactive
 
 That is all we need to do to get started using this compiler. Simply write out your code and hit the run button. Any errors will appear in the compilation tab, and interactive standard input and output will be located on the execution tab. Here is a partial list of online C++ compilers you can use while working on the exercises. If the one you are using becomes sluggish, or you can't find it at all, try another:
 
-**Tutorialspoint C++ compiler**: This website allows you to compile a C++ program contained in a single file. It prints error messages from the operating system.
+**Tutorialspoint C++ compiler**: This [website](https://www.tutorialspoint.com/compile_cpp_online.php) allows you to compile a C++ program contained in a single file. It prints error messages from the operating system.
 
-**godbolt compiler explorer**: This website allows you to compile a single file on many different compilers and shows the output assembly language; its UI is a little subtle for some tastes. It prints error messages from the operating system.
+**godbolt compiler explorer**: This [website](https://godbolt.org/) allows you to compile a single file on many different compilers and shows the output assembly language; its UI is a little subtle for some tastes. It prints error messages from the operating system.
 
-**coliru**: This website allows you to compile a single file. It prints error messages from the operating system.
+**coliru**: This [website](http://coliru.stacked-crooked.com/) allows you to compile a single file. It prints error messages from the operating system.
 
-**repl.it**: This website allows you to compile multiple files.
+**repl.it**: This [website](https://repl.it/languages/cpp) allows you to compile multiple files.
 
 **Rextester**: This website lets you compile a single file using Microsoft Visual C++.
 
 ## Installing the Code Bundle
 
-Download the code files from GitHub and place them in a new folder called C:\Code. Refer to these code files for the complete code bundle.
+Download the code files from GitHub and place them in a new folder called **C:\Code**. Refer to these code files for the complete code bundle.
