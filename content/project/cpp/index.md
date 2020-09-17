@@ -45,12 +45,12 @@ slides: ""
 ## Content
 
 - Workshop Onboarding
-   - [ ] Welcome to The C++ Workshop
-   - [ ] Installation and Setup
+   - [ ] [Welcome to The C++ Workshop](https://57ud.netlify.app/post/cpp01/)
+   - [ ] [Installation and Setup](https://57ud.netlify.app/post/cpp02/)
 1. Your First C++ Application
-   - [ ] Overview
-   - [ ] Advantages of C++
-   - [ ] Exercise 1
+   - [ ] [Overview](https://57ud.netlify.app/post/cpp03/)
+   - [ ] [Advantages of C++](https://57ud.netlify.app/post/cpp04/)
+   - [ ] [Exercise 1](https://57ud.netlify.app/post/cpp05/)
    - [ ] C++ Build Pipeline
    - [ ] C++ Keywords
    - [ ] Preprocessor Directives

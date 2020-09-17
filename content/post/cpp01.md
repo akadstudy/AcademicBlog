@@ -32,9 +32,9 @@ projects: [cpp]
 
 Welcome to The C++ Workshop
 
-Thank you for purchasing The C++ Workshop! Before we get started we just need to explain some of the unique features of the course, and run through installation and setup for your local environment.
+Thank you for visiting The C++ Workshop! Before we get started we just need to explain some of the unique features of the course, and run through installation and setup for your local environment.
 
-As you work through the material, you'll notice that all practical hands-on elements in the course (which we call exercises and activities) start by walking through a step-by-step reference implementation, followed by an instructor screencast. We recommend that you try to follow the step-by-step instructions for each practical task first, before walking through the guided example with an instructor.
+As you work through the material, you'll notice that all practical hands-on elements in the course (which we call exercises and activities) start by walking through a step-by-step reference implementation. We recommend that you try to follow the step-by-step instructions for each practical task.
 
 Taking this approach helps hack your brain, building and reinforcing your learning. It helps with embedding core concepts so that they stick with you for the years ahead. This is also why you'll periodically come across knowledge-check events in the form of informal quizzes. They're not graded and there is zero pressure; they're just there to help you benchmark and lock-in what you've worked through over the duration of the course.
 
@@ -43,7 +43,7 @@ Activities and Exercises
 
 ## Activities and Exercises
 
-One last thing we should mention is the difference between exercises and activities. Exercises are completely end-to-end and step-by-step. Combined with instructor screencasts, you should never get stuck or be left wondering why something isn't working.
+One last thing we should mention is the difference between exercises and activities. Exercises are completely end-to-end and step-by-step.
 
 Activities start off the same as exercises, but leave you with open-ended expansion points for self-study and exploration. It's absolutely worth stepping back and spending some time on extending activities. The process helps to extend your frame of reference and apply your own creative input to what you've just learned, further embedding your new skills. Just in case you run into some roadblocks, at the end of the course you'll still find reference solutions for all activities.
 
