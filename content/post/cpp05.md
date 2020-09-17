@@ -32,7 +32,7 @@ projects: []
 
 In this exercise, we are going to compile and run our first C++ application. We're going to be using an online compiler throughout the course (and the reasons for doing so will be explained after this exercise) but for now, let's get that compiler up and running. Perform the following steps to complete the exercise:
 
-> **Note:** The code file for this exercise can be found [here](Link).
+> **Note:** The code file for this exercise can be found [here]([Link](https://github.com/PacktWorkshops/The-Cpp-Workshop/blob/master/Chapter01/Exercise01/Exercise01.cpp)).
 
 1. Head [cpp.sh](http://cpp.sh/) and take a look around. This is the compiler that we'll be using. Once you go to the address, you should observe the following window:
 
@@ -54,7 +54,7 @@ int main()
 }
 ```
 
-As you can see, the console now contains the text Hello World!, meaning our program ran without issue:
+As you can see, the console now contains the text **Hello World!**, meaning our program ran without issue:
 
 Try changing the text to something unique and run the program again.
 

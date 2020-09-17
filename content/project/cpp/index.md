@@ -51,9 +51,9 @@ slides: ""
    - [ ] [Overview](https://57ud.netlify.app/post/cpp03/)
    - [ ] [Advantages of C++](https://57ud.netlify.app/post/cpp04/)
    - [ ] [Exercise 1](https://57ud.netlify.app/post/cpp05/)
-   - [ ] C++ Build Pipeline
-   - [ ] C++ Keywords
-   - [ ] Preprocessor Directives
+   - [ ] [C++ Build Pipeline](https://57ud.netlify.app/post/cpp06/)
+   - [ ] [C++ Keywords](https://57ud.netlify.app/post/cpp07/)
+   - [ ] [Preprocessor Directives](https://57ud.netlify.app/post/cpp08/)
    - [ ] Exercise 2
    - [ ] Basic I/O Statements
    - [ ] Exercise 3
