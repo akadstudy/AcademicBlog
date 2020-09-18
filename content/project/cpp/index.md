@@ -61,40 +61,40 @@ slides: ""
    - [ ] [Exercise 4](https://57ud.netlify.app/post/cpp13/)
    - [ ] [Activity 1](https://57ud.netlify.app/post/cpp14/)
 2. Control Flow
-   - [ ] Overview
-   - [ ] if/else
-   - [ ] Exercise 5
-   - [ ] Exercise 6
-   - [ ] switch/case
-   - [ ] Exercise 7
-   - [ ] Loops
-   - [ ] Exercise 8
-   - [ ] do while
-   - [ ] Exercise 9
-   - [ ] for
-   - [ ] Exercise 10
-   - [ ] Exercise 11
-   - [ ] break/continue
-   - [ ] Exercise 12
-   - [ ] Activity 2
+   - [ ] [Overview](https://57ud.netlify.app/post/cpp15/)
+   - [ ] [if/else](https://57ud.netlify.app/post/cpp16/)
+   - [ ] [Exercise 5](https://57ud.netlify.app/post/cpp17/)
+   - [ ] [Exercise 6](https://57ud.netlify.app/post/cpp18/)
+   - [ ] [switch/case](https://57ud.netlify.app/post/cpp19/)
+   - [ ] [Exercise 7](https://57ud.netlify.app/post/cpp20/)
+   - [ ] [Loops](https://57ud.netlify.app/post/cpp21/)
+   - [ ] [Exercise 8](https://57ud.netlify.app/post/cpp22/)
+   - [ ] [do while](https://57ud.netlify.app/post/cpp23/)
+   - [ ] [Exercise 9](https://57ud.netlify.app/post/cpp24/)
+   - [ ] [for](https://57ud.netlify.app/post/cpp25/)
+   - [ ] [Exercise 10](https://57ud.netlify.app/post/cpp26/)
+   - [ ] [Exercise 11](https://57ud.netlify.app/post/cpp27/)
+   - [ ] [break/continue](https://57ud.netlify.app/post/cpp28/)
+   - [ ] [Exercise 12](https://57ud.netlify.app/post/cpp29/)
+   - [ ] [Activity 2](https://57ud.netlify.app/post/cpp30/)
 3. Built-In Data Types
-   - [ ] Overview
-   - [ ] Data Types
-   - [ ] Exercise 13
-   - [ ] Containers
-   - [ ] Exercise 14
-   - [ ] Exercise 15
-   - [ ] Vectors
-   - [ ] Exercise 16
-   - [ ] Initialization
-   - [ ] Exercise 17
-   - [ ] Classes/Structs
-   - [ ] Exercise 18
-   - [ ] Constructors/Destructors
-   - [ ] Exercise 19
-   - [ ] Exercise 20
-   - [ ] Static
-   - [ ] Activity 3
+   - [ ] [Overview]()
+   - [ ] [Data Types]()
+   - [ ] [Exercise 13]()
+   - [ ] [Containers]()
+   - [ ] [Exercise 14]()
+   - [ ] [Exercise 15]()
+   - [ ] [Vectors]()
+   - [ ] [Exercise 16]()
+   - [ ] [Initialization]()
+   - [ ] [Exercise 17]()
+   - [ ] [Classes/Structs]()
+   - [ ] [Exercise 18]()
+   - [ ] [Constructors/Destructors]()
+   - [ ] [Exercise 19]()
+   - [ ] [Exercise 20]()
+   - [ ] [Static]()
+   - [ ] [Activity 3]()
 4. Operators
    - [ ] Overview
    - [ ] Arithmetic Operators
